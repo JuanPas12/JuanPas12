@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador web motivado y recién graduado con conocimiento de HTML, CSS, SCSS, JavaScript,  PHP y Bootstrao. Durante mis estudios, trabajé en varios proyectos en los que desarrollé mis habilidades en el diseño y desarrollo de sitios web y bases de datos. Soy una persona curiosa y siempre quiero aprender nuevas técnicas y mejorar mis habilidades.
+Desarrollador web motivado y recién graduado con conocimiento de HTML, CSS, SASS, JavaScript,  PHP y Bootstrao. Durante mis estudios, trabajé en varios proyectos en los que desarrollé mis habilidades en el diseño y desarrollo de sitios web y bases de datos. Soy una persona curiosa y siempre quiero aprender nuevas técnicas y mejorar mis habilidades.
 
 
 ## 🌐 Socials:
