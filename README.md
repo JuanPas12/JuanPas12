@@ -1,6 +1,5 @@
 # 💫 About Me:
-Desarrollador web motivado y recién graduado con conocimiento de HTML, CSS, SASS, JavaScript,  PHP y Bootstrao. Durante mis estudios, trabajé en varios proyectos en los que desarrollé mis habilidades en el diseño y desarrollo de sitios web y bases de datos. Soy una persona curiosa y siempre quiero aprender nuevas técnicas y mejorar mis habilidades.
-
+Desarrollador .NET con 1 año de experiencia en aplicaciones web y de escritorio. Fuerte conocimiento en C#, .Net, ASP.Net y Entity Framework. Capacidad para resolver problemas y optimizar el rendimiento. Enfocado en la calidad y la atención al detalle, con habilidades de colaboración efectiva en equipos multidisciplinarios.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jua.pablo.tafolla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanpablotb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-pablo-tafolla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JuanPas12_) 
